@@ -37,13 +37,14 @@ Theme-Current = Interior
 Cara Set ke Default-Theme
 
 Cek app/config/web.php
-
+```
 'view' => [
         'theme' => [
         'pathMap' => ['@app/views' => '@app/themes/interior'],
         'baseUrl' => '@web/../themes/interior',
         ],
     ],
+```
 *Hapus Potongan Kode tersebut
 -------------------------------------------------------------
 /////////////////////////////////////////////////////////////
@@ -51,11 +52,13 @@ Cek app/config/web.php
 /////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////
 Step:
-1.Menggunakan php 5.6++
+```
+1.Menggunakan php 7.4++
 2.create dan import db.sql
 3.akses viewPath index (__CODEFILE__)----->(localhost/..direktori/TASK1/web)
 4.done
 /////////////////////////////////////////////////////////////
 @path:@view/views/web
+```
 
 Author | 11319028 |@&cVLD
