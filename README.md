@@ -60,5 +60,8 @@ Step:
 /////////////////////////////////////////////////////////////
 @path:@view/views/web
 ```
+## 🧑 Project Manager
+👤 <a href="https://www.instagram.com/vicktor_desrony"> **Vicktor L Desrony**</a>
 
-Author | 11319028 |@&cVLD
+## 🧑 PAuthor
+👤 <a href="https://github.com/vldcreation"> **VLD Creation**</a>
