@@ -1,8 +1,13 @@
 # Pak-Alpha-Site
 Submission week 12
 ------------------------------------------------------------
-Build with Framework Yii 2.0
-Fitur:
+https://img.shields.io/github/repo-size/vldcreation/Pak-Alpha-Site
+##Build with 
+```
+Framework Yii 2.0
+```
+##Fitur:
+```
 CRUD produk;
 CRUD kategori;
 CRUD supplier;
@@ -12,6 +17,7 @@ Register with encrypt password
 Logout
 RBAC Hak Akses User
 Redirect all user if not logged in
+```
 ------------------------------------------------------------
 DB_Name		: db_pos.sql
 ------------------------------------------------------------
