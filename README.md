@@ -1,7 +1,7 @@
 # Pak-Alpha-Site
 Submission week 12
 ------------------------------------------------------------
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vldcreation/Pak-Alpha-Site?color=green"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vldcreation/Pak-Alpha-Site">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vldcreation/Pak-Alpha-Site?color=green"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vldcreation/Pak-Alpha-Site"><a href="https://github.com/vldcreation/Pak-Alpha-Site/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vldcreation/Pak-Alpha-Site"></a>
 
 ##Build with 
 ```
