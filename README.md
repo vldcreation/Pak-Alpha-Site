@@ -1,7 +1,7 @@
 # Pak-Alpha-Site
 Submission week 12
 ------------------------------------------------------------
-https://img.shields.io/github/repo-size/vldcreation/Pak-Alpha-Site
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vldcreation/Pak-Alpha-Site?color=green">
 
 ##Build with 
 ```
